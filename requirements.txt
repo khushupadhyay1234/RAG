@@ -17,3 +17,4 @@ langchain-chroma
 duckdb
 pandas
 openai
+langchain-groq   
